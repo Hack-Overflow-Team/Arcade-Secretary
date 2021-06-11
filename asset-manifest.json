@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.349b7882.chunk.css",
-    "main.js": "./static/js/main.23e77842.chunk.js",
-    "main.js.map": "./static/js/main.23e77842.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.c79a1a7b.js",
-    "runtime-main.js.map": "./static/js/runtime-main.c79a1a7b.js.map",
-    "static/js/2.9b10e581.chunk.js": "./static/js/2.9b10e581.chunk.js",
-    "static/js/2.9b10e581.chunk.js.map": "./static/js/2.9b10e581.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.349b7882.chunk.css.map": "./static/css/main.349b7882.chunk.css.map",
-    "static/js/2.9b10e581.chunk.js.LICENSE.txt": "./static/js/2.9b10e581.chunk.js.LICENSE.txt",
-    "static/media/App.css": "./static/media/dont_grow_up.99608628.png",
-    "static/media/scoring_system.70c8aa7e.png": "./static/media/scoring_system.70c8aa7e.png"
+    "main.css": "./Arcade-Secretary/static/css/main.349b7882.chunk.css",
+    "main.js": "./Arcade-Secretary/static/js/main.23e77842.chunk.js",
+    "main.js.map": "./Arcade-Secretary/static/js/main.23e77842.chunk.js.map",
+    "runtime-main.js": "./Arcade-Secretary/static/js/runtime-main.b89e9e93.js",
+    "runtime-main.js.map": "./Arcade-Secretary/static/js/runtime-main.b89e9e93.js.map",
+    "static/js/2.9b10e581.chunk.js": "./Arcade-Secretary/static/js/2.9b10e581.chunk.js",
+    "static/js/2.9b10e581.chunk.js.map": "./Arcade-Secretary/static/js/2.9b10e581.chunk.js.map",
+    "index.html": "./Arcade-Secretary/index.html",
+    "static/css/main.349b7882.chunk.css.map": "./Arcade-Secretary/static/css/main.349b7882.chunk.css.map",
+    "static/js/2.9b10e581.chunk.js.LICENSE.txt": "./Arcade-Secretary/static/js/2.9b10e581.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./Arcade-Secretary/static/media/dont_grow_up.99608628.png",
+    "static/media/scoring_system.70c8aa7e.png": "./Arcade-Secretary/static/media/scoring_system.70c8aa7e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c79a1a7b.js",
+    "static/js/runtime-main.b89e9e93.js",
     "static/js/2.9b10e581.chunk.js",
     "static/css/main.349b7882.chunk.css",
     "static/js/main.23e77842.chunk.js"
